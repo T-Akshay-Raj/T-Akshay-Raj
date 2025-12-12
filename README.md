@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Akshay
-- 👀 I’m a Senior Java Developer with a working experience of 7+ years in the IT Industry
+- 👀 I’m a Senior Java Developer with a working experience of 9 years in the IT Industry
 - 🌱 I’m currently learning Java, Python and FullStack Development
 - 💞️ I’m looking to collaborate on creating repositories to serve as a one stop solution for all revision material
 - 📫 How to reach me ...
