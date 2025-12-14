@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The average developer spends about 50% of their time debugging code. So don't worry, you're not alone in those late-night bug hunts!
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-akshay-raj&label=Profile%20views&color=0e75b6&style=flat" alt="t-akshay-raj" /> </p>
